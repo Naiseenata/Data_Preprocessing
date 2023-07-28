@@ -23,8 +23,10 @@ Counted the number of people from each company and represented it visually using
 Plotted a histogram of salary to understand its distribution.
 Counted the number of males and females in the dataset and represented it visually using bar chart.
 # 4. Data Encoding
-Converted categorical variables into numerical representations using label encoding for the 'Company' column.
+Converted categorical variables into numerical representations using label encoding for the 'country' column.
 Utilized one-hot encoding for other categorical variables to make them suitable for machine learning algorithms.
 # 5. Feature Scaling
 Performed feature scaling using StandardScaler and MinMaxScaler to bring all features to a similar scale.
 Ensured that the scaling was applied to both the training and test data to maintain consistency.
+# Results
+The data preprocessing process significantly improved the quality and reliability of the dataset, making it suitable for machine learning tasks. The cleaned and encoded data is ready to be used for training and evaluating machine learning models.
